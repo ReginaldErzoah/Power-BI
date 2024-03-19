@@ -10,7 +10,7 @@ Recommendations: Reduction of driving or riding in precipitation & low-visibilit
 Further analysis should be done later with the hourly, daily and monthly traffic volume relations in consideration. 
 
 # 2. Bank Target Marketing Visualization
-Per insights from visualization, majority of Clients fall in the Blue-Collar jobs (11,676). The job distribution suggests a diverse clientele. The majority of clients fall into the middle-aged category (37,823).
+Per insights from visualization, majority of Clients fall in the Management & Blue-Collar jobs. The job distribution suggests a diverse clientele. The majority of clients fall into the middle-aged category (37,823).
 Married clients have the highest average balance ($1,458.85), and this indicates that marital status of clients may have an influence on their financial standing.
 Out of all clients, 10,578 (18.76%) have made a deposit while 45,795 (81.24%) have not. The data suggests a substantial portion of clients have not made a deposit, potentially indicating an opportunity for targeted marketing or incentive campaigns to encourage deposits.
 Further analysis and segmentation could unveil deeper patterns and opportunities for the bank to enhance its services and customer satisfaction.
