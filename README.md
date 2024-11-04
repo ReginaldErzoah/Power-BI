@@ -14,3 +14,10 @@ Per insights from visualization, majority of Clients fall in the Management & Bl
 Married clients have the highest average balance ($1,458.85), and this indicates that marital status of clients may have an influence on their financial standing.
 Out of all clients, 10,578 (18.76%) have made a deposit while 45,795 (81.24%) have not. The data suggests a substantial portion of clients have not made a deposit, potentially indicating an opportunity for targeted marketing or incentive campaigns to encourage deposits.
 Further analysis and segmentation could unveil deeper patterns and opportunities for the bank to enhance its services and customer satisfaction.
+
+# 3. Sales Analytics Project
+This is a Sales Analytics BI project aimed at drawing insights into sales and profit in relation to Rep and Product performance, Regional and Customer Segments, Shipping modes, Delivery times, and more, for a Super Store using model data.
+The BI report consists of three pages: Overview,Regional & Customer Segment, and Reps & Products Performance.
+Some quick insights include: Total Sales of $2.30M, Total Profit of $286.40K, and an Average Delivery Time of 3.96 days.
+The use of navigation buttons enhances the user experience. 
+For more insights and access to the BI file and Super Store data model in this (Power BI Projects) repository.
